@@ -1,5 +1,5 @@
 import axios from "axios";
-const URL = "http://localhost:3000";
+const URL = "https://medium-drab.vercel.app";
 
 export async function getPosts() {
   // http://localhost:3000/posts
