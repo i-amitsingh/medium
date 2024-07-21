@@ -1,5 +1,5 @@
 import axios from "axios";
-const URL = "https://medium-drab.vercel.app";
+const URL = "https://medium-8pha.onrender.com/";
 
 export async function getPosts() {
   // http://localhost:3000/posts
